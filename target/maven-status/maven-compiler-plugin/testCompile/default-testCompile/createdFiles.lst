@@ -1,0 +1,6 @@
+com\runner\RunnerClass.class
+com\Ajio\Dbconnection.class
+com\Ajio\kidsClothing.class
+com\Ajio\Reusable.class
+com\Ajio\Hooks.class
+com\locators\AjioClothingLocators.class
